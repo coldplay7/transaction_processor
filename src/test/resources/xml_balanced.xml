@@ -1,0 +1,7 @@
+<TransactionList>
+    <Transaction type="D" amount="10.00" narration="Electricity bill"/>
+    <Transaction type="D" amount="20.00" narration="Social security payment"/>
+    <Transaction type="D" amount="30.00" narration="Payment sent to x"/>
+    <Transaction type="D" amount="40.00" narration="Car rental"/>
+    <Transaction type="C" amount="100.00" narration="Salary"/>
+</TransactionList>
